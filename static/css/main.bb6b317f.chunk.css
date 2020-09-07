@@ -1,2 +1,0 @@
-*{box-sizing:border-box}body{margin:0;padding:0}.App{display:grid;justify-content:center;justify-items:center}.todos-list{width:980px;display:grid;grid-template-columns:repeat(4,245px)}.todos-list__item{margin:5px;padding:5px;background:#ffc}.todo-container{display:flex;justify-content:space-between;flex-direction:column;height:220px}.user-name{text-align:center;font-style:italic}
-/*# sourceMappingURL=main.bb6b317f.chunk.css.map */
